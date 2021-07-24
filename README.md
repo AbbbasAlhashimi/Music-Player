@@ -12,3 +12,5 @@ The Project consist of a Music Container. Inside it, there are: Music Info, Trac
   <li><b>progress.js</b> It contains of 2 functions: 1) updateProgress and 2) setProgress, along with 3 event listeners that Display the music timeline, allows changing the track timeline by click, and jump to the next music track when the song is over.  </li>
 </ul><br>
 As for the Style, almost all controls are covered along with some animation effects for the buttons and the progress timeline animation.
+<br>
+The Code Implementation can be found here [https://codepen.io/abbbas_alhashimi/pen/JjNOzyp].
